@@ -3,6 +3,7 @@
 
 # ignoring typescript generated files
 **/app/**/*.js*
+typings
 
 # User-specific files
 *.suo
