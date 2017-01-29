@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Angular2Quickstart": {
+    "Angular2UIGrid": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

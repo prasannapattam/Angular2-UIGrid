@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Angular2Quickstart.Models
+namespace Angular2UIGrid.Models
 {
     public class HeroModel
     {

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Angular2Quickstart
+namespace Angular2UIGrid
 {
     public class Startup
     {
